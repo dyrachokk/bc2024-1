@@ -1,1 +1,1 @@
-console.log(`Привіт, ${githubUsername}!`);
+console.log(`Hello, dyrachokk`);
